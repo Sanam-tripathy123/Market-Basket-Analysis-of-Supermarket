@@ -1,4 +1,4 @@
-Market Basket Analysis (Supermarket or Retail Stores)
+# Market Basket Analysis (Supermarket or Retail Stores)
 
 Market basket analysis (i.e., Data mining technique in the field of marketing) is the method to find the associations between the items / item sets and based on those associations we can analyze the consumer behavior. In this research we have presented the variability of time, because with the change in time the habits or behavior of the customer also changes.
 
